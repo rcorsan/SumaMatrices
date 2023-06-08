@@ -7,3 +7,4 @@ El metodo leerMatriz hace algo parecido, va leyendo cada elemento y lo guarda en
 El metodo suma matrices hace la resta de las matrices para conseguir la matriz intermedia.
 
 He implementado excepciones para errores y clases de test para cada ejecucion.
+He tenido que eliminar module.info para que me funcionase.
